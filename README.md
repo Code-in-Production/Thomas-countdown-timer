@@ -4,5 +4,5 @@
 
 Input into command prompt:
 
-`<javac *.java>
-<java Main>`
+`javac *.java
+java Main`
