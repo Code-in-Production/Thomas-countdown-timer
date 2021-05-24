@@ -4,6 +4,8 @@
 
 Input into command prompt:
 
-`<javac *.java
+`<
+javac *.java
 
-java Main>`
+java Main
+>`
