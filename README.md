@@ -5,7 +5,6 @@
 Input into command prompt:
 
 ```
-
 javac *.java
 
 java Main
